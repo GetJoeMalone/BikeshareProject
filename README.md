@@ -9,7 +9,3 @@ To get an even more granular picture, I pulled web data for menu pricing for eac
 
 
 
-
-Since the d
-
-The insights include:
